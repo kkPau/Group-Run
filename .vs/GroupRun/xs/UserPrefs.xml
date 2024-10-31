@@ -1,0 +1,76 @@
+﻿<Properties StartupConfiguration="{BB15F5C2-4578-466C-A7B0-7724A534B2A4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GroupRun/Models/AppUser.cs">
+    <Files>
+      <File FileName="GroupRun/Program.cs" Line="18" Column="63" />
+      <File FileName="GroupRun/Controllers/AccountController.cs" Line="95" Column="36" />
+      <File FileName="GroupRun/Views/Account/Login.cshtml" Line="35" Column="61" />
+      <File FileName="GroupRun/Views/Shared/_Layout.cshtml" Line="31" Column="46" />
+      <File FileName="GroupRun/ViewModels/RegisterViewModel.cs" Line="15" Column="1" />
+      <File FileName="GroupRun/ViewModels/LoginViewModel.cs" Line="1" Column="1" />
+      <File FileName="GroupRun/Views/Account/Register.cshtml" Line="19" Column="20" />
+      <File FileName="GroupRun/Models/AppUser.cs" Line="16" Column="17" />
+      <File FileName="GroupRun/Views/Club/Index.cshtml" Line="24" Column="37" />
+      <File FileName="GroupRun/Views/Race/Index.cshtml" Line="33" Column="27" />
+      <File FileName="GroupRun/Controllers/DashboardController.cs" Line="54" Column="42" />
+      <File FileName="GroupRun/Views/Dashboard/Index.cshtml" Line="4" Column="16" />
+      <File FileName="GroupRun/Interfaces/IDashboardRepository.cs" Line="12" Column="45" />
+      <File FileName="GroupRun/Repository/DashboardRepository.cs" Line="8" Column="49" />
+      <File FileName="GroupRun/ViewModels/DashboardViewModel.cs" Line="11" Column="6" />
+      <File FileName="GroupRun/Views/Club/Create.cshtml" Line="22" Column="11" />
+      <File FileName="GroupRun/Controllers/ClubController.cs" Line="45" Column="62" />
+      <File FileName="GroupRun/ClaimsPrincipalExtensions.cs" Line="14" Column="1" />
+      <File FileName="GroupRun/ViewModels/CreateClubViewModel.cs" Line="21" Column="9" />
+      <File FileName="GroupRun/Repository/ClubRepository.cs" Line="1" Column="1" />
+      <File FileName="GroupRun/Models/Club.cs" Line="8" Column="15" />
+      <File FileName="GroupRun/Views/Race/Create.cshtml" Line="12" Column="80" />
+      <File FileName="GroupRun/ViewModels/CreateRaceViewModel.cs" Line="13" Column="35" />
+      <File FileName="GroupRun/Controllers/RaceController.cs" Line="63" Column="50" />
+      <File FileName="GroupRun/Controllers/UserController.cs" Line="52" Column="46" />
+      <File FileName="GroupRun/Views/User/Index.cshtml" Line="38" Column="90" />
+      <File FileName="GroupRun/Interfaces/IUserRepository.cs" Line="11" Column="1" />
+      <File FileName="GroupRun/Repository/UserRepository.cs" Line="47" Column="27" />
+      <File FileName="GroupRun/ViewModels/UserViewModel.cs" Line="6" Column="3" />
+      <File FileName="GroupRun/ViewModels/UserDetailViewModel.cs" Line="12" Column="42" />
+      <File FileName="GroupRun/Views/User/Detail.cshtml" Line="46" Column="82" />
+      <File FileName="GroupRun/Views/Dashboard/EditUserProfile.cshtml" Line="7" Column="9" />
+      <File FileName="GroupRun/ViewModels/EditUserDashboardViewModel.cs" Line="18" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GroupRun" expanded="True">
+            <Node name="GroupRun" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="AppUser.cs" selected="True" />
+              </Node>
+              <Node name="Repository" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="Club" expanded="True" />
+                <Node name="Dashboard" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Race" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="User" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GroupRun PreferredExecutionTarget="/Applications/Arc.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
